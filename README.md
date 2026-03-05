@@ -33,7 +33,7 @@ Visit my website here:
 https://physicdunia.github.io
 
 ## Contact
-Email: your-email@example.com  
+Email:  physicdunia@gmail.com
 Location: West Bengal, India
 
 ---
